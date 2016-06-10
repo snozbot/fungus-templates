@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 00af9e50cdb7fbf42905028fb14446f6
+timeCreated: 1465543005
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: astro_idle_0
+    21300002: astro_idle_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: astro_idle_0
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 246
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -303}
+        - {x: 45, y: -285}
+        - {x: 44, y: -169}
+        - {x: 56, y: -156}
+        - {x: 90, y: -121}
+        - {x: 103, y: -79}
+        - {x: 100, y: -38}
+        - {x: 96, y: -16}
+        - {x: 72, y: 78}
+        - {x: 67, y: 87}
+        - {x: 98, y: 113}
+        - {x: 113, y: 138}
+        - {x: 123, y: 170}
+        - {x: 123, y: 221}
+        - {x: 119, y: 240}
+        - {x: 96, y: 280}
+        - {x: 67, y: 304}
+        - {x: 35, y: 319}
+        - {x: -35, y: 319}
+        - {x: -74, y: 301}
+        - {x: -103, y: 278}
+        - {x: -123, y: 229}
+        - {x: -123, y: 167}
+        - {x: -122, y: 154}
+        - {x: -104, y: 125}
+        - {x: -89, y: 108}
+        - {x: -78, y: 96}
+        - {x: -94, y: 70}
+        - {x: -111, y: 0}
+        - {x: -113, y: -75}
+        - {x: -102, y: -114}
+        - {x: -96, y: -122}
+        - {x: -74, y: -147}
+        - {x: -46, y: -241}
+        - {x: -46, y: -286}
+        - {x: -32, y: -314}
+        - {x: -17, y: -319}
+        - {x: 15, y: -319}
+        - {x: 18, y: -318}
+        - {x: 23, y: -316}
+        - {x: 32, y: -311}
+    - name: astro_idle_1
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 246
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -295}
+        - {x: 46, y: -277}
+        - {x: 46, y: -194}
+        - {x: 52, y: -164}
+        - {x: 86, y: -133}
+        - {x: 104, y: -87}
+        - {x: 98, y: -24}
+        - {x: 71, y: 70}
+        - {x: 95, y: 105}
+        - {x: 115, y: 134}
+        - {x: 123, y: 159}
+        - {x: 123, y: 216}
+        - {x: 110, y: 253}
+        - {x: 81, y: 284}
+        - {x: 53, y: 304}
+        - {x: 37, y: 311}
+        - {x: -33, y: 311}
+        - {x: -42, y: 308}
+        - {x: -64, y: 301}
+        - {x: -102, y: 269}
+        - {x: -123, y: 224}
+        - {x: -123, y: 143}
+        - {x: -96, y: 105}
+        - {x: -81, y: 82}
+        - {x: -91, y: 64}
+        - {x: -99, y: 43}
+        - {x: -112, y: -23}
+        - {x: -111, y: -81}
+        - {x: -108, y: -98}
+        - {x: -106, y: -105}
+        - {x: -104, y: -111}
+        - {x: -96, y: -131}
+        - {x: -73, y: -155}
+        - {x: -45, y: -171}
+        - {x: -47, y: -278}
+        - {x: -31, y: -306}
+        - {x: -16, y: -311}
+        - {x: 16, y: -311}
+        - {x: 19, y: -310}
+        - {x: 24, y: -308}
+        - {x: 33, y: -303}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

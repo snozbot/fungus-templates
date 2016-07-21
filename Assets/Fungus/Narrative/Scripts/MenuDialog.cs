@@ -155,6 +155,7 @@ namespace Fungus
 			{
 				cachedSlider.gameObject.SetActive(true);
 				StopAllCoroutines();
+                gameObject.SetActive(true);
 				StartCoroutine(WaitForTimeout(duration, targetBlock));
 			}
 		}
